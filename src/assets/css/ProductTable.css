@@ -1,0 +1,11 @@
+#root {
+  margin: 50px;
+}
+
+.row-category {
+  font-weight: bold;
+}
+
+.out-of-stock{
+  color: red;
+}
